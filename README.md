@@ -1,5 +1,5 @@
 <a href="https://www.tayserosa.com">
-<img src="https://tayserosa.com/wp-content/uploads/2024/08/Topo.png" alt="Tayse Rosa">
+<img src="https://tayserosa.com/wp-content/uploads/2024/08/Topo.png" target="_blank" alt="Tayse Rosa">
 </a>
 Conheça mais sobre a desenvolvedora: https://www.tayserosa.com
 
