@@ -3,8 +3,10 @@
 </a>
 Conheça mais sobre a desenvolvedora em: https://www.tayserosa.com
 
+<div align="center">
 # Projeto React Native - Loja Básica
-[<img height="148px" width="148px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+</div>
+  [<img height="148px" width="148px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 
 <a href="./assets/screen.png">
 <img src="./assets/screen.png" alt="Screen app">
