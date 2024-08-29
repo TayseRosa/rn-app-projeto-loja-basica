@@ -1,12 +1,12 @@
 <a href="https://www.tayserosa.com">
-<img src="./assets/readme/readme-banner.png" target="_blank" alt="Tayse Rosa">
+<img src="./assets/readme-banner.png" target="_blank" alt="Tayse Rosa">
 </a>
 Conheça mais sobre a desenvolvedora em: https://www.tayserosa.com
 
 # Projeto React Native - Loja Básica
 [<img height="148px" width="148px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 
-<a href="./assets/readme/screen.png">
+<a href="./assets/screen.png">
 <img src="./assets/screen.png" alt="Screen app">
 <a>
 
