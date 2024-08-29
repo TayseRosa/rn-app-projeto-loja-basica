@@ -1,48 +1,19 @@
 <img src="https://tayserosa.com/wp-content/uploads/2024/08/Topo.png" alt="Tayse Rosa">
+> Developer www.tayserosa.com
+
 
 # Projeto React Native - Loja Básica
-
-Projeto em funcionamento: 
-
-<div data-snack-id="@tayse_rosa/projeto-loja-basica" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#0C0D0E;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
-</div>
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 
 
-> Sobre a developer www.tayserosa.com
+Link do projeto em funcionamento: <script async src="https://snack.expo.dev/embed.js"></script>
+
 
 ### Status do projeto
 
 🟢 Projeto concluído:
 
-## 💻 Pré-requisitos
 
-- Você precisa para rodar este projeto, apenas de um navegador como o Google Chrome.
-
-
-## 🚀 Instalando projeto
-
-Para instalar o projeto, siga estas etapas:
-
-Linux e macOS:
-
-```
-git clone https://github.com/TayseRosa/coderosa.tech.git
-```
-
-Windows:
-```
-git clone https://github.com/TayseRosa/coderosa.tech.git
-```
-
-## ☕ Usando Projeto
-
-Para usar Projeto, siga estas etapas:
-
-```
-Acessar a pasta coderosa.tech
-Duplo clique em index.html
-Testar no seu navegador favorito
-```
 
 ## 📫 Contribuindo para Projeto
 
@@ -70,4 +41,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
   </tr>
 </table>
 
-Copyright :copyright: 2023 · Feito com por ❤️ Tayse Rosa · JS Drums
+Copyright :copyright: 2023 · Feito com por ❤️ Tayse Rosa        
