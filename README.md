@@ -1,5 +1,5 @@
 <a href="https://www.tayserosa.com">
-<img src="./assets/readme-topo.png" target="_blank" alt="Tayse Rosa">
+<img src="./assets/readmeFull.png" target="_blank" alt="Tayse Rosa">
 </a>
 
 <div align="center">
