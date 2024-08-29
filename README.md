@@ -2,6 +2,7 @@
 <img src="https://tayserosa.com/wp-content/uploads/2024/08/Topo.png" target="_blank" alt="Tayse Rosa">
 </a>
 Conheça mais sobre a desenvolvedora em: https://www.tayserosa.com
+<div align="center">
 
 # Projeto React Native - Loja Básica
 [<img height="148px" width="148px" align="center" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
@@ -11,6 +12,7 @@ Conheça mais sobre a desenvolvedora em: https://www.tayserosa.com
 <a>
 
 Link do projeto em funcionamento: https://snack.expo.dev/embed.js
+<div align="center">
 
 
 ### Status do projeto
