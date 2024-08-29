@@ -1,12 +1,13 @@
 <img src="https://tayserosa.com/wp-content/uploads/2024/08/Topo.png" alt="Tayse Rosa">
-> Developer www.tayserosa.com
+Conheça mais sobre a desenvolvedora: https://www.tayserosa.com
 
 
 # Projeto React Native - Loja Básica
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 
+<img src="./assets/screen.png" alt="Screen app">
 
-Link do projeto em funcionamento: <script async src="https://snack.expo.dev/embed.js"></script>
+Link do projeto em funcionamento: https://snack.expo.dev/embed.js
 
 
 ### Status do projeto
