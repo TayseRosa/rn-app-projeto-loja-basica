@@ -6,13 +6,13 @@ Conheça mais sobre a desenvolvedora em: https://www.tayserosa.com
 
 # Projeto React Native - Loja Básica
 [<img height="148px" width="148px" align="center" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+</div>
 
 <a href="https://snack.expo.dev/@tayse_rosa/projeto-loja-basica">
 <img src="./assets/screen.png" alt="Screen app">
 <a>
 
 Link do projeto em funcionamento: https://snack.expo.dev/embed.js
-<div align="center">
 
 
 ### Status do projeto
